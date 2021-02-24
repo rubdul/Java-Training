@@ -1,2 +1,2 @@
 # Java-Training
-Intro to CS in Java by Robert Sedgewick
+ Based on Intro to CS in Java by Robert Sedgewick
